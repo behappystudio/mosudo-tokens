@@ -1,0 +1,108 @@
+{
+  "section": {
+    "none": {
+      "value": {
+        "horizontalPadding": "0",
+        "verticalPadding": "0"
+      },
+      "type": "composition"
+    },
+    "3xsm": {
+      "value": {
+        "horizontalPadding": "0.125rem",
+        "verticalPadding": "0.125rem"
+      },
+      "type": "composition"
+    },
+    "xxsm": {
+      "value": {
+        "horizontalPadding": "0.25rem",
+        "verticalPadding": "0.25rem"
+      },
+      "type": "composition"
+    },
+    "xsm": {
+      "value": {
+        "horizontalPadding": "0.5rem",
+        "verticalPadding": "0.5rem"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "horizontalPadding": "1rem",
+        "verticalPadding": "1rem"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "horizontalPadding": "2rem",
+        "verticalPadding": "2rem"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "horizontalPadding": "3rem",
+        "verticalPadding": "3rem"
+      },
+      "type": "composition"
+    },
+    "xlg": {
+      "value": {
+        "horizontalPadding": "4rem",
+        "verticalPadding": "4rem"
+      },
+      "type": "composition"
+    },
+    "xxlg": {
+      "value": {
+        "horizontalPadding": "5rem",
+        "verticalPadding": "5rem"
+      },
+      "type": "composition"
+    },
+    "3xlg": {
+      "value": {
+        "horizontalPadding": "6rem",
+        "verticalPadding": "6rem"
+      },
+      "type": "composition"
+    },
+    "4xlg": {
+      "value": {
+        "horizontalPadding": "8rem",
+        "verticalPadding": "8rem"
+      },
+      "type": "composition"
+    },
+    "5xlg": {
+      "value": {
+        "horizontalPadding": "12rem",
+        "verticalPadding": "12rem"
+      },
+      "type": "composition"
+    }
+  },
+  "container": {
+    "sm": {
+      "value": {
+        "width": "48rem"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "width": "64rem"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "width": "80rem"
+      },
+      "type": "composition"
+    }
+  }
+}

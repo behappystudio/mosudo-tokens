@@ -1,0 +1,362 @@
+{
+  "System": {
+    "Default": {
+      "White": {
+        "value": "{Neutral.0}",
+        "type": "color"
+      },
+      "Black": {
+        "value": "{Neutral.900}",
+        "type": "color"
+      },
+      "Muted": {
+        "value": "{Neutral.90}",
+        "type": "color"
+      }
+    },
+    "Primary": {
+      "50": {
+        "value": "$Yellow.50",
+        "type": "color"
+      },
+      "75": {
+        "value": "$Yellow.75",
+        "type": "color"
+      },
+      "100": {
+        "value": "$Yellow.100",
+        "type": "color"
+      },
+      "200": {
+        "value": "$Yellow.200",
+        "type": "color"
+      },
+      "300": {
+        "value": "$Yellow.300",
+        "type": "color"
+      },
+      "400": {
+        "value": "$Yellow.400",
+        "type": "color"
+      },
+      "500": {
+        "value": "$Yellow.500",
+        "type": "color"
+      }
+    },
+    "Error": {
+      "50": {
+        "value": "{Red.50}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{Red.75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{Red.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{Red.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{Red.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{Red.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{Red.500}",
+        "type": "color"
+      }
+    },
+    "Success": {
+      "50": {
+        "value": "{Green.300}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{Green.75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{Green.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{Green.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{Green.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{Green.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{Green.500}",
+        "type": "color"
+      }
+    },
+    "Warning": {
+      "50": {
+        "type": "color",
+        "value": "{Blue.50}"
+      },
+      "75": {
+        "type": "color",
+        "value": "{Blue.75}"
+      },
+      "100": {
+        "type": "color",
+        "value": "{Blue.100}"
+      },
+      "200": {
+        "type": "color",
+        "value": "{Blue.200}"
+      },
+      "300": {
+        "type": "color",
+        "value": "{Blue.300}"
+      },
+      "400": {
+        "type": "color",
+        "value": "{Blue.400}"
+      },
+      "500": {
+        "type": "color",
+        "value": "{Blue.500}"
+      }
+    }
+  },
+  "fontFamilies": {
+    "primary": {
+      "value": "Mulish",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Mulish",
+      "type": "fontFamilies"
+    }
+  },
+  "Neutral": {
+    "0": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "10": {
+      "value": "#fbfbfb",
+      "type": "color"
+    },
+    "20": {
+      "value": "#f2f2f4",
+      "type": "color"
+    },
+    "30": {
+      "value": "#e5e6e8",
+      "type": "color"
+    },
+    "40": {
+      "value": "#dddde1",
+      "type": "color"
+    },
+    "50": {
+      "value": "#d8d9dd",
+      "type": "color"
+    },
+    "60": {
+      "value": "#d4d5d9",
+      "type": "color"
+    },
+    "70": {
+      "value": "#c6c7cd",
+      "type": "color"
+    },
+    "80": {
+      "value": "#b8b9c0",
+      "type": "color"
+    },
+    "90": {
+      "value": "#a9aab3",
+      "type": "color"
+    },
+    "100": {
+      "value": "#9b9ca7",
+      "type": "color"
+    },
+    "200": {
+      "value": "#8d8e9a",
+      "type": "color"
+    },
+    "300": {
+      "value": "#7e808e",
+      "type": "color"
+    },
+    "400": {
+      "value": "#707281",
+      "type": "color"
+    },
+    "500": {
+      "value": "#707281",
+      "type": "color"
+    },
+    "600": {
+      "value": "#585b6c",
+      "type": "color"
+    },
+    "700": {
+      "value": "#414357",
+      "type": "color"
+    },
+    "800": {
+      "value": "#292c42",
+      "type": "color"
+    },
+    "900": {
+      "value": "#11142D",
+      "type": "color"
+    }
+  },
+  "Red": {
+    "50": {
+      "value": "#FFF9F8",
+      "type": "color"
+    },
+    "75": {
+      "value": "#FFEBE6",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FFB8B8",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FF8D8D",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FF7070",
+      "type": "color"
+    },
+    "400": {
+      "value": "#FF5C5C",
+      "type": "color"
+    },
+    "500": {
+      "value": "#FF4747",
+      "type": "color"
+    }
+  },
+  "Blue": {
+    "50": {
+      "value": "#FFFBF5",
+      "type": "color"
+    },
+    "75": {
+      "value": "#FFF4E6",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FFC680",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FFA333",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FF8C00",
+      "type": "color"
+    },
+    "400": {
+      "value": "#F18400",
+      "type": "color"
+    },
+    "500": {
+      "value": "#E37D00",
+      "type": "color"
+    }
+  },
+  "Green": {
+    "50": {
+      "value": "#F6FCF9",
+      "type": "color"
+    },
+    "75": {
+      "value": "#E9F7F1",
+      "type": "color"
+    },
+    "100": {
+      "value": "#93D9BB",
+      "type": "color"
+    },
+    "200": {
+      "value": "#51C192",
+      "type": "color"
+    },
+    "300": {
+      "value": "#26B277",
+      "type": "color"
+    },
+    "400": {
+      "value": "#23A770",
+      "type": "color"
+    },
+    "500": {
+      "value": "#219D6A",
+      "type": "color"
+    }
+  },
+  "button": {
+    "sm": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    }
+  },
+  "input": {
+    "textbox": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    }
+  },
+  "pill": {
+    "value": {
+      "borderRadius": "$md"
+    },
+    "type": "composition"
+  },
+  "badge": {
+    "value": {
+      "borderRadius": "$xlg"
+    },
+    "type": "composition"
+  }
+}
