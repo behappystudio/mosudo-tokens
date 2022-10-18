@@ -10,6 +10,10 @@
     }
   },
   "Neutral": {
+    "0": {
+      "value": "#ffffff",
+      "type": "color"
+    },
     "100": {
       "value": "#777488",
       "type": "color"
@@ -36,10 +40,6 @@
     },
     "700": {
       "value": "#252040",
-      "type": "color"
-    },
-    "000": {
-      "value": "#ffffff",
       "type": "color"
     }
   },
