@@ -45,19 +45,19 @@
   },
   "Blue": {
     "200": {
-      "value": "#ffa333",
+      "value": "#ebf4ff",
       "type": "color"
     },
     "300": {
-      "value": "#ff8c00",
+      "value": "#add0ff",
       "type": "color"
     },
     "400": {
-      "value": "#f18400",
+      "value": "#569fff",
       "type": "color"
     },
     "500": {
-      "value": "#e37d00",
+      "value": "#006eff",
       "type": "color"
     },
     "600": {
