@@ -863,6 +863,73 @@
         },
         "type": "typography"
       }
+    },
+    "Medium": {
+      "300": {
+        "value": {
+          "fontFamily": "{fontFamilies.sf-pro-display}",
+          "fontWeight": "{fontWeights.sf-pro-display-3}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.5}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "400": {
+        "value": {
+          "fontFamily": "{fontFamilies.sf-pro-display}",
+          "fontWeight": "{fontWeights.sf-pro-display-2}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.5}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "500": {
+        "value": {
+          "fontFamily": "{fontFamilies.sf-pro-display}",
+          "fontWeight": "{fontWeights.sf-pro-display-4}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.5}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "700": {
+        "value": {
+          "fontFamily": "{fontFamilies.sf-pro-display}",
+          "fontWeight": "{fontWeights.sf-pro-display-1}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.5}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "800": {
+        "value": {
+          "fontFamily": "{fontFamilies.sf-pro-display}",
+          "fontWeight": "{fontWeights.sf-pro-display-0}",
+          "lineHeight": "{lineHeights.2}",
+          "fontSize": "{fontSize.2}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
     }
   },
   "textCase": {
