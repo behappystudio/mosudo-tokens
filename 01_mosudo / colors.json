@@ -1,11 +1,15 @@
 {
   "System": {
     "Transparent": {
-      "value": "#d8d8d800",
+      "value": "#25204000",
       "type": "color"
     },
     "White": {
       "value": "$Neutral.0",
+      "type": "color"
+    },
+    "Black": {
+      "value": "$Neutral.700",
       "type": "color"
     }
   },
@@ -223,6 +227,18 @@
     "700": {
       "value": "#8b3673",
       "type": "color"
+    }
+  },
+  "Gradient": {
+    "Bottom": {
+      "Black": {
+        "value": "linear-gradient(0deg, $Neutral.700 0%, $System.Transparent 100%)",
+        "type": "color"
+      },
+      "White": {
+        "value": "linear-gradient(0deg, $Neutral.0 0%, $System.Transparent 100%)",
+        "type": "color"
+      }
     }
   }
 }
