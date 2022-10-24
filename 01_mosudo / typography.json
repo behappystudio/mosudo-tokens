@@ -612,8 +612,8 @@
     "Medium": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.sf-pro-display}",
-          "fontWeight": "{fontWeights.sf-pro-display-3}",
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.5}",
@@ -625,8 +625,8 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.sf-pro-display}",
-          "fontWeight": "{fontWeights.sf-pro-display-2}",
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.5}",
@@ -638,8 +638,8 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.sf-pro-display}",
-          "fontWeight": "{fontWeights.sf-pro-display-4}",
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.5}",
@@ -651,8 +651,8 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.sf-pro-display}",
-          "fontWeight": "{fontWeights.sf-pro-display-1}",
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.5}",
@@ -664,8 +664,8 @@
       },
       "800": {
         "value": {
-          "fontFamily": "{fontFamilies.sf-pro-display}",
-          "fontWeight": "{fontWeights.sf-pro-display-0}",
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.800}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
           "letterSpacing": "{letterSpacing.0}",
