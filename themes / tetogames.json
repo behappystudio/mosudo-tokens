@@ -427,7 +427,7 @@
     "Regular": {
       "value": {
         "fontFamily": "Poppins",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.300}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -440,7 +440,7 @@
     "Medium": {
       "value": {
         "fontFamily": "Poppins",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.400}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -457,7 +457,7 @@
         "Regular": {
           "value": {
             "fontFamily": "Poppins",
-            "fontWeight": "{fontWeights.400}",
+            "fontWeight": "{fontWeights.300}",
             "lineHeight": "$lineHeights.1",
             "fontSize": "$fontSize.1",
             "letterSpacing": "$letterSpacing.0",
@@ -470,7 +470,7 @@
         "Bold": {
           "value": {
             "fontFamily": "Poppins",
-            "fontWeight": "{fontWeights.500}",
+            "fontWeight": "{fontWeights.400}",
             "lineHeight": "$lineHeights.1",
             "fontSize": "$fontSize.1",
             "letterSpacing": "$letterSpacing.0",
@@ -487,7 +487,7 @@
     "Regular": {
       "value": {
         "fontFamily": "Poppins",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.300}",
         "lineHeight": "$lineHeights.2",
         "fontSize": "$fontSize.0",
         "letterSpacing": "$letterSpacing.0",
@@ -500,7 +500,7 @@
     "Medium": {
       "value": {
         "fontFamily": "Poppins",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.400}",
         "lineHeight": "$lineHeights.2",
         "fontSize": "$fontSize.0",
         "letterSpacing": "$letterSpacing.0",
@@ -516,7 +516,7 @@
       "Light": {
         "value": {
           "fontFamily": "Poppins",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.lg}",
           "fontSize": "{fontSize.H5}",
           "letterSpacing": "$letterSpacing.1",
