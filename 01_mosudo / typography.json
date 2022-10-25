@@ -3,6 +3,10 @@
     "primary": {
       "value": "SF Pro Display",
       "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "SF Pro Display",
+      "type": "fontFamilies"
     }
   },
   "lineHeights": {
@@ -557,7 +561,7 @@
     "Large": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.1}",
           "fontSize": "{fontSize.3}",
@@ -570,7 +574,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.1}",
           "fontSize": "{fontSize.3}",
@@ -583,7 +587,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.1}",
           "fontSize": "{fontSize.3}",
@@ -596,7 +600,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.1}",
           "fontSize": "{fontSize.3}",
@@ -609,7 +613,7 @@
       },
       "800": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.800}",
           "lineHeight": "{lineHeights.1}",
           "fontSize": "{fontSize.3}",
@@ -624,7 +628,7 @@
     "Medium": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
@@ -637,7 +641,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
@@ -650,7 +654,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
@@ -663,7 +667,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
@@ -676,7 +680,7 @@
       },
       "800": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.800}",
           "lineHeight": "{lineHeights.2}",
           "fontSize": "{fontSize.2}",
@@ -691,7 +695,7 @@
     "Small": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.0}",
           "fontSize": "{fontSize.1}",
@@ -704,7 +708,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.0}",
           "fontSize": "{fontSize.1}",
@@ -717,7 +721,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.0}",
           "fontSize": "{fontSize.1}",
@@ -730,7 +734,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.0}",
           "fontSize": "{fontSize.1}",
@@ -743,7 +747,7 @@
       },
       "800": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.800}",
           "lineHeight": "{lineHeights.0}",
           "fontSize": "{fontSize.1}",
@@ -758,7 +762,7 @@
     "XSmall": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.3}",
           "fontSize": "{fontSize.0}",
@@ -771,7 +775,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "{lineHeights.3}",
           "fontSize": "{fontSize.0}",
@@ -784,7 +788,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "{lineHeights.3}",
           "fontSize": "{fontSize.0}",
@@ -797,7 +801,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "{lineHeights.3}",
           "fontSize": "{fontSize.0}",
@@ -810,7 +814,7 @@
       },
       "800": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.800}",
           "lineHeight": "{lineHeights.3}",
           "fontSize": "{fontSize.0}",
