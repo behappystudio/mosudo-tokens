@@ -75,15 +75,15 @@
   },
   "Red": {
     "200": {
-      "value": "#ff8d8d",
+      "value": "#ffc0c0",
       "type": "color"
     },
     "300": {
-      "value": "#ff7070",
+      "value": "#ff9898",
       "type": "color"
     },
     "400": {
-      "value": "#ff5c5c",
+      "value": "#ff6f6f",
       "type": "color"
     },
     "500": {
@@ -91,11 +91,11 @@
       "type": "color"
     },
     "600": {
-      "value": "#c54e4e",
+      "value": "#c73737",
       "type": "color"
     },
     "700": {
-      "value": "#9c3e3e",
+      "value": "#8f2828",
       "type": "color"
     }
   },
