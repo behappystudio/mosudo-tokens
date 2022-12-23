@@ -198,7 +198,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "28",
         "borderRadius": "$xlg",
-        "typography": "$H6.500",
+        "typography": "$H4.500",
         "itemSpacing": "8",
         "height": "48"
       },
