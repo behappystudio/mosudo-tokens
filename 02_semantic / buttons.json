@@ -127,19 +127,19 @@
       },
       "Clicked": {
         "Background": {
-          "value": "{System.Default.White}",
+          "value": "$System.Transparent",
           "type": "color"
         },
         "Text": {
-          "value": "{System.Default.Black}",
+          "value": "$System.Primary.600",
           "type": "color"
         },
         "Icon": {
-          "value": "{System.Default.Black}",
+          "value": "$System.Primary.600",
           "type": "color"
         },
         "Border": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.600}",
           "type": "color"
         }
       }
