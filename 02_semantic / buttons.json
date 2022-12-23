@@ -149,26 +149,6 @@
     "Primary": {
       "Default": {
         "Text": {
-          "value": "{System.Primary.300}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{System.Primary.300}",
-          "type": "color"
-        }
-      },
-      "Hover": {
-        "Text": {
-          "value": "{System.Primary.400}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{System.Primary.400}",
-          "type": "color"
-        }
-      },
-      "Focus": {
-        "Text": {
           "value": "{System.Primary.500}",
           "type": "color"
         },
@@ -188,30 +168,20 @@
           "value": "{Neutral.700}",
           "type": "color"
         }
-      },
-      "Hover": {
-        "Text": {
-          "value": "$Neutral.800",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "$Neutral.800",
-          "type": "color"
-        }
-      },
-      "Focus": {
-        "Text": {
-          "value": "{Neutral.900}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{Neutral.900}",
-          "type": "color"
-        }
       }
     }
   },
   "button": {
+    "xs": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "16",
+        "spacing": "8",
+        "borderRadius": "$sm",
+        "typography": "$Text.Medium.400"
+      },
+      "type": "composition"
+    },
     "sm": {
       "value": {
         "verticalPadding": "6",
@@ -226,20 +196,22 @@
     "md": {
       "value": {
         "verticalPadding": "8",
-        "horizontalPadding": "12",
-        "spacing": "8",
-        "borderRadius": "$sm",
-        "typography": "$Text.Small.400"
+        "horizontalPadding": "28",
+        "borderRadius": "$xlg",
+        "typography": "$H6.500",
+        "itemSpacing": "8",
+        "height": "48"
       },
       "type": "composition"
     },
     "lg": {
       "value": {
-        "verticalPadding": "8",
-        "horizontalPadding": "16",
-        "spacing": "8",
-        "borderRadius": "$sm",
-        "typography": "$Text.Medium.400"
+        "verticalPadding": "16",
+        "horizontalPadding": "48",
+        "borderRadius": "$xlg",
+        "typography": "$H4.500",
+        "height": "60",
+        "itemSpacing": "10"
       },
       "type": "composition"
     }
