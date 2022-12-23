@@ -1,55 +1,9 @@
 {
-  "System": {
-    "Default": {
-      "White": {
-        "value": "{Neutral.0}",
-        "type": "color"
-      },
-      "Black": {
-        "value": "{Neutral.900}",
-        "type": "color"
-      },
-      "Muted": {
-        "value": "{Neutral.90}",
-        "type": "color"
-      }
-    },
-    "Primary": {
-      "50": {
-        "value": "$Blue.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Blue.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Blue.100",
-        "type": "color"
-      },
-      "200": {
-        "value": "$Blue.200",
-        "type": "color"
-      },
-      "300": {
-        "value": "$Blue.300",
-        "type": "color"
-      },
-      "400": {
-        "value": "$Blue.400",
-        "type": "color"
-      },
-      "500": {
-        "value": "$Blue.500",
-        "type": "color"
-      }
-    }
-  },
   "Button": {
     "Primary": {
       "Default": {
         "Background": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.500}",
           "type": "color"
         },
         "Text": {
@@ -61,9 +15,9 @@
           "type": "color"
         }
       },
-      "Hover": {
+      "Clicked": {
         "Background": {
-          "value": "{System.Primary.400}",
+          "value": "{System.Primary.600}",
           "type": "color"
         },
         "Text": {
@@ -72,38 +26,20 @@
         },
         "Icon": {
           "value": "{System.Default.White}",
-          "type": "color"
-        }
-      },
-      "Focus": {
-        "Background": {
-          "value": "{System.Primary.300}",
-          "type": "color"
-        },
-        "Text": {
-          "value": "{System.Default.White}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{System.Default.White}",
-          "type": "color"
-        },
-        "Border": {
-          "value": "{System.Primary.400}",
           "type": "color"
         }
       },
       "Disabled": {
         "Background": {
-          "value": "{Neutral.50}",
+          "value": "{Neutral.100}",
           "type": "color"
         },
         "Text": {
-          "value": "{Neutral.80}",
+          "value": "{Neutral.300}",
           "type": "color"
         },
         "Icon": {
-          "value": "{Neutral.80}",
+          "value": "{Neutral.300}",
           "type": "color"
         }
       }
@@ -111,19 +47,19 @@
     "Secondary": {
       "Default": {
         "Background": {
-          "value": "{System.Primary.50}",
+          "value": "{System.Primary.200}",
           "type": "color"
         },
         "Text": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.500}",
           "type": "color"
         },
         "Icon": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.500}",
           "type": "color"
         }
       },
-      "Hover": {
+      "Clicked": {
         "Background": {
           "value": "{System.Primary.75}",
           "type": "color"
@@ -137,7 +73,7 @@
           "type": "color"
         }
       },
-      "Focus": {
+      "Disabled": {
         "Background": {
           "value": "{System.Primary.50}",
           "type": "color"
