@@ -2,15 +2,15 @@
   "System": {
     "Default": {
       "White": {
-        "value": "{Neutral.0}",
+        "value": "#ffffff",
         "type": "color"
       },
       "Black": {
-        "value": "{Neutral.900}",
+        "value": "#000000",
         "type": "color"
       },
       "Muted": {
-        "value": "{Neutral.90}",
+        "value": "{Neutral.300}",
         "type": "color"
       },
       "Transparent": {
@@ -19,18 +19,6 @@
       }
     },
     "Primary": {
-      "50": {
-        "value": "$Blue.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Blue.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Blue.100",
-        "type": "color"
-      },
       "200": {
         "value": "$Blue.200",
         "type": "color"
@@ -45,52 +33,44 @@
       },
       "500": {
         "value": "$Blue.500",
+        "type": "color"
+      },
+      "600": {
+        "value": "$Blue.600",
+        "type": "color"
+      },
+      "700": {
+        "value": "$Blue.700",
         "type": "color"
       }
     },
     "Secondary": {
-      "50": {
-        "value": "$Blue.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Blue.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Blue.100",
-        "type": "color"
-      },
       "200": {
-        "value": "$Blue.200",
+        "value": "$Teal.200",
         "type": "color"
       },
       "300": {
-        "value": "$Blue.300",
+        "value": "$Teal.300",
         "type": "color"
       },
       "400": {
-        "value": "$Blue.400",
+        "value": "$Teal.400",
         "type": "color"
       },
       "500": {
-        "value": "$Blue.500",
+        "value": "$Teal.500",
+        "type": "color"
+      },
+      "600": {
+        "value": "$Teal.600",
+        "type": "color"
+      },
+      "700": {
+        "value": "$Teal.700",
         "type": "color"
       }
     },
     "Error": {
-      "50": {
-        "value": "$Red.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Red.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Red.100",
-        "type": "color"
-      },
       "200": {
         "value": "$Red.200",
         "type": "color"
@@ -106,23 +86,19 @@
       "500": {
         "value": "$Red.500",
         "type": "color"
+      },
+      "600": {
+        "value": "$Red.600",
+        "type": "color"
+      },
+      "700": {
+        "value": "$Red.700",
+        "type": "color"
       }
     },
     "Success": {
-      "50": {
-        "value": "{Green.300}",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Green.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Green.100",
-        "type": "color"
-      },
       "200": {
-        "value": "$Green.200",
+        "value": "{Green.200}",
         "type": "color"
       },
       "300": {
@@ -136,21 +112,17 @@
       "500": {
         "value": "$Green.500",
         "type": "color"
+      },
+      "600": {
+        "value": "$Green.600",
+        "type": "color"
+      },
+      "700": {
+        "value": "$Green.700",
+        "type": "color"
       }
     },
     "Warning": {
-      "50": {
-        "value": "$Yellow.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Yellow.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Yellow.100",
-        "type": "color"
-      },
       "200": {
         "value": "$Yellow.200",
         "type": "color"
@@ -165,6 +137,14 @@
       },
       "500": {
         "value": "$Yellow.500",
+        "type": "color"
+      },
+      "600": {
+        "value": "$Yellow.600",
+        "type": "color"
+      },
+      "700": {
+        "value": "$Yellow.700",
         "type": "color"
       }
     }
