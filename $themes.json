@@ -27,40 +27,8 @@
       "01_mosudo / radius": "enabled",
       "01_mosudo / shadows": "enabled",
       "01_mosudo / sizing": "disabled",
-      "01_mosudo / typography": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
-    "name": "light",
-    "selectedTokenSets": {
-      "02_semantic / colors": "enabled",
-      "02_semantic / inputs": "enabled",
-      "02_semantic / buttons": "enabled",
-      "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
-      "02_semantic / avatar": "enabled",
-      "02_semantic / flag": "enabled",
-      "02_semantic / table": "enabled",
-      "02_semantic / dialog": "enabled",
-      "themes / multinet": "disabled",
-      "themes / behappy": "disabled",
-      "themes / branchsight": "disabled",
-      "themes / buddy": "disabled",
-      "themes / adverport": "disabled",
-      "themes / vidyodan": "disabled",
-      "themes / sanovel": "disabled",
-      "themes / edugun": "disabled",
-      "themes / l2g": "disabled",
-      "themes / justapedin": "disabled",
-      "themes / comodif": "disabled",
-      "themes / priamai": "disabled",
-      "01_mosudo / colors": "source",
-      "01_mosudo / radius": "source",
-      "01_mosudo / shadows": "source",
-      "01_mosudo / sizing": "disabled",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "enabled",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -101,7 +69,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -142,7 +111,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -183,7 +153,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -224,7 +195,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -265,7 +237,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -306,7 +279,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -347,7 +321,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -388,7 +363,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -429,7 +405,8 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -470,7 +447,42 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "disabled",
-      "01_mosudo / typography": "source"
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
+    "name": "light",
+    "selectedTokenSets": {
+      "02_semantic / colors": "enabled",
+      "02_semantic / inputs": "enabled",
+      "02_semantic / buttons": "enabled",
+      "02_semantic / menus": "enabled",
+      "02_semantic / pills-badge": "enabled",
+      "02_semantic / avatar": "enabled",
+      "02_semantic / flag": "enabled",
+      "02_semantic / table": "enabled",
+      "02_semantic / dialog": "enabled",
+      "themes / multinet": "disabled",
+      "themes / behappy": "disabled",
+      "themes / branchsight": "disabled",
+      "themes / buddy": "disabled",
+      "themes / adverport": "disabled",
+      "themes / vidyodan": "disabled",
+      "themes / sanovel": "disabled",
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled",
+      "themes / priamai": "disabled",
+      "01_mosudo / colors": "source",
+      "01_mosudo / radius": "source",
+      "01_mosudo / shadows": "source",
+      "01_mosudo / sizing": "disabled",
+      "01_mosudo / typography": "source",
+      "02_semantic / bottom-nav": "enabled"
     },
     "$figmaStyleReferences": {}
   }
