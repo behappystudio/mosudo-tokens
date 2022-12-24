@@ -1,1 +1,41 @@
-{}
+{
+  "Menu": {
+    "Default": {
+      "Text": {
+        "value": "$Neutral.700",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$Neutral.700",
+        "type": "color"
+      }
+    },
+    "Active": {
+      "Text": {
+        "value": "$System.Primary.500",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Primary.500",
+        "type": "color"
+      }
+    },
+    "Hero": {
+      "Background": {
+        "value": "$System.Primary.500",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Default.White",
+        "type": "color"
+      }
+    }
+  },
+  "Bottom-Nav": {
+    "value": {
+      "boxShadow": "$Top.sm",
+      "fill": "$System.Default.White"
+    },
+    "type": "composition"
+  }
+}

@@ -1,44 +1,60 @@
 {
-  "avatar": {
-    "xlg": {
-      "value": {
-        "height": "62",
-        "width": "62",
-        "borderRadius": "$full"
+  "Avatar": {
+    "Primary": {
+      "xxlg": {
+        "value": {
+          "height": "64",
+          "width": "64",
+          "borderRadius": "$full",
+          "fill": "$System.Primary.500"
+        },
+        "type": "composition"
       },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "height": "52",
-        "width": "52",
-        "borderRadius": "$full"
+      "xlg": {
+        "value": {
+          "height": "56",
+          "width": "56",
+          "borderRadius": "$full",
+          "fill": "$System.Primary.500"
+        },
+        "type": "composition"
       },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "height": "40",
-        "width": "40",
-        "borderRadius": "$full"
+      "lg": {
+        "value": {
+          "height": "48",
+          "width": "48",
+          "borderRadius": "$full",
+          "fill": "$System.Primary.500"
+        },
+        "type": "composition"
       },
-      "type": "composition"
-    },
-    "sm": {
-      "value": {
-        "height": "32",
-        "width": "32",
-        "borderRadius": "$full"
+      "md": {
+        "value": {
+          "height": "32",
+          "width": "32",
+          "borderRadius": "$full",
+          "fill": "$System.Primary.500"
+        },
+        "type": "composition"
       },
-      "type": "composition"
-    },
-    "xs": {
-      "value": {
-        "height": "24",
-        "width": "24",
-        "borderRadius": "$full"
+      "sm": {
+        "value": {
+          "height": "24",
+          "width": "24",
+          "borderRadius": "$full",
+          "fill": "$System.Primary.500"
+        },
+        "type": "composition"
       },
-      "type": "composition"
+      "xs": {
+        "value": {
+          "height": "18",
+          "width": "18",
+          "borderRadius": "$full",
+          "fill": "$System.Primary.500"
+        },
+        "type": "composition"
+      }
     }
   }
 }
