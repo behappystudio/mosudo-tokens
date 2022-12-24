@@ -1,15 +1,15 @@
 {
   "System": {
-    "Transparent": {
-      "value": "#25204000",
-      "type": "color"
-    },
     "White": {
       "value": "$Neutral.0",
       "type": "color"
     },
     "Black": {
       "value": "$Neutral.700",
+      "type": "color"
+    },
+    "Transparent": {
+      "value": "#25204000",
       "type": "color"
     }
   },

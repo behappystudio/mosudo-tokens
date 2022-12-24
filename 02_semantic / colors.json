@@ -2,11 +2,11 @@
   "System": {
     "Default": {
       "White": {
-        "value": "#ffffff",
+        "value": "$Neutral.0",
         "type": "color"
       },
       "Black": {
-        "value": "#000000",
+        "value": "$Neutral.700",
         "type": "color"
       },
       "Muted": {
@@ -145,6 +145,28 @@
       },
       "700": {
         "value": "$Yellow.700",
+        "type": "color"
+      }
+    },
+    "Base": {
+      "White": {
+        "value": "White",
+        "type": "color"
+      },
+      "LightGrey": {
+        "value": "LightGrey",
+        "type": "color"
+      },
+      "Grey": {
+        "value": "Grey",
+        "type": "color"
+      },
+      "DimGrey": {
+        "value": "DimGrey",
+        "type": "color"
+      },
+      "Black": {
+        "value": "Black",
         "type": "color"
       }
     }
