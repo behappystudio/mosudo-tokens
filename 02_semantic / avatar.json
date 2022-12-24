@@ -111,6 +111,67 @@
         },
         "type": "composition"
       }
+    },
+    "Outline": {
+      "xxlg": {
+        "value": {
+          "height": "64",
+          "width": "64",
+          "borderRadius": "$full",
+          "fill": "$System.Default.White",
+          "border": "$Neutral.200"
+        },
+        "type": "composition"
+      },
+      "xlg": {
+        "value": {
+          "height": "56",
+          "width": "56",
+          "borderRadius": "$full",
+          "fill": "$System.Default.White",
+          "border": "$Neutral.200"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "height": "48",
+          "width": "48",
+          "borderRadius": "$full",
+          "fill": "$System.Default.White"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "height": "32",
+          "width": "32",
+          "borderRadius": "$full",
+          "fill": "$System.Default.White",
+          "border": "$Neutral.200"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "height": "24",
+          "width": "24",
+          "borderRadius": "$full",
+          "fill": "$System.Default.White",
+          "border": "$Neutral.200"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "height": "18",
+          "width": "18",
+          "borderRadius": "$full",
+          "fill": "$System.Default.White",
+          "border": "$Neutral.200"
+        },
+        "type": "composition"
+      }
     }
   }
 }
