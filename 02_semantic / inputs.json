@@ -1,21 +1,145 @@
 {
   "input": {
-    "textbox": {
-      "value": {
-        "horizontalPadding": "12",
-        "verticalPadding": "8",
-        "borderRadius": "$sm",
-        "spacing": "10"
+    "line": {
+      "textbox": {
+        "value": {
+          "horizontalPadding": "14",
+          "verticalPadding": "12",
+          "borderRadiusTopLeft": "$sm",
+          "borderRadiusTopRight": "$sm",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
       },
-      "type": "composition"
+      "numeric": {
+        "value": {
+          "verticalPadding": "8",
+          "borderRadius": "$sm",
+          "spacing": "0"
+        },
+        "type": "composition"
+      }
     },
-    "numeric": {
-      "value": {
-        "verticalPadding": "8",
-        "borderRadius": "$sm",
-        "spacing": "0"
+    "contained": {
+      "textbox": {
+        "value": {
+          "horizontalPadding": "14",
+          "verticalPadding": "12",
+          "borderRadius": "$sm",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
       },
-      "type": "composition"
+      "numeric": {
+        "value": {
+          "verticalPadding": "8",
+          "borderRadius": "$sm",
+          "spacing": "0"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "placeholder": {
+    "value": "$Text.Medium.400",
+    "type": "typography"
+  },
+  "label": {
+    "value": "$Text.XSmall.500",
+    "type": "typography"
+  },
+  "Input": {
+    "Line": {
+      "Default": {
+        "Background": {
+          "value": "$Neutral.100",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$Neutral.200",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.500",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Focused": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.600",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Success.500",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.600",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Error.500",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.600",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$Neutral.100",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.400",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.200",
+          "type": "color"
+        }
+      }
     }
   }
 }

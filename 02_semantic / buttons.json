@@ -143,6 +143,98 @@
           "type": "color"
         }
       }
+    },
+    "Default": {
+      "xs": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "20",
+          "borderRadius": "$xlg",
+          "boxShadow": "$Shadow.none",
+          "height": "32",
+          "itemSpacing": "4"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "24",
+          "borderRadius": "$xlg",
+          "boxShadow": "$none",
+          "itemSpacing": "6",
+          "height": "40"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "28",
+          "borderRadius": "$xlg",
+          "typography": "$H4.500",
+          "itemSpacing": "8",
+          "height": "48"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "16",
+          "horizontalPadding": "48",
+          "borderRadius": "$xlg",
+          "typography": "$H4.500",
+          "height": "60",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      }
+    },
+    "OnlyIcon": {
+      "xs": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "20",
+          "borderRadius": "$xlg",
+          "boxShadow": "$Shadow.none",
+          "height": "32",
+          "itemSpacing": "4"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "24",
+          "borderRadius": "$xlg",
+          "boxShadow": "$none",
+          "itemSpacing": "6",
+          "height": "40"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "28",
+          "borderRadius": "$xlg",
+          "typography": "$H4.500",
+          "itemSpacing": "8",
+          "height": "48"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "16",
+          "horizontalPadding": "48",
+          "borderRadius": "$xlg",
+          "typography": "$H4.500",
+          "height": "60",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      }
     }
   },
   "Link": {
@@ -171,62 +263,21 @@
       }
     }
   },
-  "button": {
-    "xs": {
-      "value": {
-        "verticalPadding": "8",
-        "horizontalPadding": "16",
-        "spacing": "8",
-        "borderRadius": "$sm",
-        "typography": "$Text.Medium.400"
-      },
-      "type": "composition"
-    },
-    "sm": {
-      "value": {
-        "verticalPadding": "6",
-        "horizontalPadding": "8",
-        "spacing": "6",
-        "borderRadius": "$sm",
-        "typography": "$Text.XSmall.400",
-        "boxShadow": "$none"
-      },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "verticalPadding": "8",
-        "horizontalPadding": "28",
-        "borderRadius": "$xlg",
-        "typography": "$H4.500",
-        "itemSpacing": "8",
-        "height": "48"
-      },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "verticalPadding": "16",
-        "horizontalPadding": "48",
-        "borderRadius": "$xlg",
-        "typography": "$H4.500",
-        "height": "60",
-        "itemSpacing": "10"
-      },
-      "type": "composition"
-    }
-  },
   "label": {
-    "sm": {
+    "xs": {
       "value": "{Text.XSmall.400}",
       "type": "typography"
     },
+    "sm": {
+      "value": "$Text.Medium.500",
+      "type": "typography"
+    },
     "md": {
-      "value": "{Text.Small.400}",
+      "value": "$H6.500",
       "type": "typography"
     },
     "lg": {
-      "value": "{Text.Medium.400}",
+      "value": "$H4.500",
       "type": "typography"
     }
   },
