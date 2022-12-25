@@ -6,7 +6,6 @@
       "themes / dark": "enabled",
       "02_semantic / inputs": "disabled",
       "02_semantic / menus": "disabled",
-      "02_semantic / pills-badge": "disabled",
       "02_semantic / avatar": "disabled",
       "02_semantic / flag": "disabled",
       "02_semantic / table": "disabled",
@@ -23,7 +22,8 @@
       "01_mosudo / shadows": "enabled",
       "01_mosudo / sizing": "disabled",
       "01_mosudo / typography": "enabled",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -38,7 +38,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -60,7 +59,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -75,7 +75,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -97,7 +96,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -112,7 +112,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -134,7 +133,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -149,7 +149,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -171,7 +170,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -186,7 +186,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -208,7 +207,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -223,7 +223,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -245,7 +244,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -260,7 +260,6 @@
       "02_semantic / flag": "source",
       "02_semantic / inputs": "source",
       "02_semantic / menus": "source",
-      "02_semantic / pills-badge": "source",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "source",
       "themes / coyotiv": "disabled",
@@ -282,7 +281,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -297,7 +297,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -319,7 +318,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -334,7 +334,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -356,7 +355,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -371,7 +371,6 @@
       "02_semantic / flag": "enabled",
       "02_semantic / inputs": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
       "themes / coyotiv": "disabled",
@@ -393,7 +392,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "disabled",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "disabled"
+      "02_semantic / bottom-nav": "disabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -405,7 +405,6 @@
       "02_semantic / inputs": "enabled",
       "02_semantic / buttons": "enabled",
       "02_semantic / menus": "enabled",
-      "02_semantic / pills-badge": "enabled",
       "02_semantic / avatar": "enabled",
       "02_semantic / flag": "enabled",
       "02_semantic / table": "enabled",
@@ -422,7 +421,8 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "disabled",
       "01_mosudo / typography": "source",
-      "02_semantic / bottom-nav": "enabled"
+      "02_semantic / bottom-nav": "enabled",
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   }

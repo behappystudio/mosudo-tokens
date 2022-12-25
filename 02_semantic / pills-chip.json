@@ -1,0 +1,39 @@
+{
+  "pill": {
+    "lg": {
+      "value": {
+        "horizontalPadding": "12",
+        "verticalPadding": "6",
+        "borderRadius": "$2xlg",
+        "itemSpacing": "6"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "horizontalPadding": "8",
+        "verticalPadding": "6",
+        "borderRadius": "$2xlg",
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "horizontalPadding": "6",
+        "verticalPadding": "4",
+        "borderRadius": "$2xlg",
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    }
+  },
+  "badge": {
+    "value": {
+      "verticalPadding": "4",
+      "horizontalPadding": "6",
+      "borderRadius": "$lg"
+    },
+    "type": "composition"
+  }
+}
