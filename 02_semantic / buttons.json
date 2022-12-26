@@ -194,32 +194,29 @@
       "xs": {
         "value": {
           "verticalPadding": "8",
-          "horizontalPadding": "20",
+          "horizontalPadding": "8",
           "borderRadius": "$xlg",
           "boxShadow": "$Shadow.none",
-          "height": "32",
-          "itemSpacing": "4"
+          "height": "32"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "verticalPadding": "8",
-          "horizontalPadding": "24",
+          "verticalPadding": "9",
+          "horizontalPadding": "9",
           "borderRadius": "$xlg",
           "boxShadow": "$none",
-          "itemSpacing": "6",
           "height": "40"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "verticalPadding": "8",
-          "horizontalPadding": "28",
+          "verticalPadding": "12",
+          "horizontalPadding": "12",
           "borderRadius": "$xlg",
           "typography": "$H4.500",
-          "itemSpacing": "8",
           "height": "48"
         },
         "type": "composition"
@@ -227,11 +224,10 @@
       "lg": {
         "value": {
           "verticalPadding": "16",
-          "horizontalPadding": "48",
+          "horizontalPadding": "16",
           "borderRadius": "$xlg",
           "typography": "$H4.500",
-          "height": "60",
-          "itemSpacing": "10"
+          "height": "60"
         },
         "type": "composition"
       }
