@@ -32,11 +32,25 @@
     }
   },
   "chip": {
-    "default": {
+    "avatar": {
       "value": {
         "verticalPadding": "4",
-        "horizontalPadding": "6",
-        "borderRadius": "$lg"
+        "borderRadius": "$full",
+        "paddingLeft": "4",
+        "paddingRight": "8",
+        "height": "32",
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    },
+    "icon": {
+      "value": {
+        "verticalPadding": "4",
+        "borderRadius": "$full",
+        "paddingLeft": "8",
+        "paddingRight": "8",
+        "height": "32",
+        "itemSpacing": "4"
       },
       "type": "composition"
     }
