@@ -15,7 +15,7 @@
           "height": "56",
           "width": "56",
           "borderRadius": "$full",
-          "fill": "$System.Primary.200"
+          "fill": "$System.Primary.500"
         },
         "type": "composition"
       },
