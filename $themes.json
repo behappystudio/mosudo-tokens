@@ -23,7 +23,8 @@
       "01_mosudo / sizing": "disabled",
       "01_mosudo / typography": "enabled",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "disabled"
+      "02_semantic / pills-chip": "disabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +60,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -95,7 +97,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -131,7 +134,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -167,7 +171,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -203,7 +208,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -239,7 +245,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -275,7 +282,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "source"
+      "02_semantic / pills-chip": "source",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -311,7 +319,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -347,7 +356,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -383,7 +393,8 @@
       "01_mosudo / sizing": "disabled",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -412,7 +423,8 @@
       "01_mosudo / sizing": "disabled",
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "enabled",
-      "02_semantic / pills-chip": "enabled"
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "enabled"
     },
     "$figmaStyleReferences": {}
   }
