@@ -1,11 +1,11 @@
 {
   "ActionSheet": {
     "Background": {
-      "value": "rgba($Neutral.0, 0.85)",
+      "value": "rgba({Neutral.000}, 0.85)",
       "type": "color"
     },
     "Primary": {
-      "value": "$Neutral.0",
+      "value": "{Neutral.000}",
       "type": "color"
     }
   }

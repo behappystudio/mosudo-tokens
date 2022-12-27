@@ -260,7 +260,7 @@
   "System": {
     "Default": {
       "White": {
-        "value": "{Neutral.0}",
+        "value": "{Neutral.000}",
         "type": "color"
       },
       "Black": {

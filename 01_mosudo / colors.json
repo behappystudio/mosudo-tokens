@@ -1,9 +1,5 @@
 {
   "Neutral": {
-    "0": {
-      "value": "#ffffff",
-      "type": "color"
-    },
     "100": {
       "value": "#ebeaea",
       "type": "color"
@@ -30,6 +26,10 @@
     },
     "700": {
       "value": "#121212",
+      "type": "color"
+    },
+    "000": {
+      "value": "#ffffff",
       "type": "color"
     }
   },
@@ -222,7 +222,7 @@
         "type": "color"
       },
       "White": {
-        "value": "linear-gradient(0deg, $Neutral.0 0%, $System.Transparent 100%)",
+        "value": "linear-gradient(0deg, {Neutral.000} 0%, $System.Transparent 100%)",
         "type": "color"
       }
     }

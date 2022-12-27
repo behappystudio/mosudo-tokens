@@ -6,7 +6,7 @@
         "type": "color"
       },
       "Black": {
-        "value": "$Neutral.0",
+        "value": "{Neutral.000}",
         "type": "color"
       },
       "Muted": {
@@ -198,10 +198,6 @@
     }
   },
   "Neutral": {
-    "0": {
-      "value": "#121212",
-      "type": "color"
-    },
     "100": {
       "value": "#454444",
       "type": "color"
@@ -228,6 +224,10 @@
     },
     "700": {
       "value": "#ffffff",
+      "type": "color"
+    },
+    "000": {
+      "value": "#121212",
       "type": "color"
     }
   }

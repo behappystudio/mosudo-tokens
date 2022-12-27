@@ -118,7 +118,7 @@
           "height": "64",
           "width": "64",
           "borderRadius": "$full",
-          "fill": "$Neutral.0",
+          "fill": "{Neutral.000}",
           "border": "$Neutral.200"
         },
         "type": "composition"
@@ -128,7 +128,7 @@
           "height": "56",
           "width": "56",
           "borderRadius": "$full",
-          "fill": "$Neutral.0",
+          "fill": "{Neutral.000}",
           "border": "$Neutral.200"
         },
         "type": "composition"
@@ -138,7 +138,7 @@
           "height": "48",
           "width": "48",
           "borderRadius": "$full",
-          "fill": "$Neutral.0"
+          "fill": "{Neutral.000}"
         },
         "type": "composition"
       },
@@ -147,7 +147,7 @@
           "height": "32",
           "width": "32",
           "borderRadius": "$full",
-          "fill": "$Neutral.0",
+          "fill": "{Neutral.000}",
           "border": "$Neutral.200"
         },
         "type": "composition"
@@ -157,7 +157,7 @@
           "height": "24",
           "width": "24",
           "borderRadius": "$full",
-          "fill": "$Neutral.0",
+          "fill": "{Neutral.000}",
           "border": "$Neutral.200"
         },
         "type": "composition"
@@ -167,7 +167,7 @@
           "height": "18",
           "width": "18",
           "borderRadius": "$full",
-          "fill": "$Neutral.0",
+          "fill": "{Neutral.000}",
           "border": "$Neutral.200"
         },
         "type": "composition"
