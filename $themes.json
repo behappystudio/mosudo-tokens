@@ -24,7 +24,8 @@
       "01_mosudo / typography": "enabled",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "disabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -61,7 +62,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -98,7 +100,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -135,7 +138,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -172,7 +176,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -209,7 +214,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -246,7 +252,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -283,7 +290,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "source",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -320,7 +328,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -357,7 +366,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -394,7 +404,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "disabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "disabled"
+      "02_semantic / action-sheet": "disabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -424,7 +435,8 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "enabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "enabled"
+      "02_semantic / action-sheet": "enabled",
+      "themes / akustik-more": "disabled"
     },
     "$figmaStyleReferences": {}
   }

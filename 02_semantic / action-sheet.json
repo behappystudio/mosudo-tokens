@@ -3,6 +3,10 @@
     "Background": {
       "value": "rgba($Neutral.0, 0.85)",
       "type": "color"
+    },
+    "Primary": {
+      "value": "$Neutral.0",
+      "type": "color"
     }
   }
 }
