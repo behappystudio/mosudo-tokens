@@ -262,5 +262,133 @@
       "value": "Black",
       "type": "fontWeights"
     }
+  },
+  "Button": {
+    "Default": {
+      "xs": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "20",
+          "borderRadius": "$none",
+          "boxShadow": "$Shadow.none",
+          "height": "32",
+          "itemSpacing": "4"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "24",
+          "borderRadius": "$none",
+          "boxShadow": "$none",
+          "itemSpacing": "6",
+          "height": "40"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "28",
+          "borderRadius": "$none",
+          "typography": "$H4.500",
+          "itemSpacing": "8",
+          "height": "48"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "16",
+          "horizontalPadding": "48",
+          "borderRadius": "$none",
+          "typography": "$H4.500",
+          "height": "60",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      }
+    },
+    "OnlyIcon": {
+      "xs": {
+        "value": {
+          "verticalPadding": "8",
+          "horizontalPadding": "8",
+          "borderRadius": "$none",
+          "boxShadow": "$Shadow.none",
+          "height": "32"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "9",
+          "horizontalPadding": "9",
+          "borderRadius": "$none",
+          "boxShadow": "$none",
+          "height": "40"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "12",
+          "horizontalPadding": "12",
+          "borderRadius": "$none",
+          "typography": "$H4.500",
+          "height": "48"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "16",
+          "horizontalPadding": "16",
+          "borderRadius": "$none",
+          "typography": "$H4.500",
+          "height": "60"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "label": {
+    "xs": {
+      "value": "{Text.XSmall.400}",
+      "type": "typography"
+    },
+    "sm": {
+      "value": "$Text.Medium.500",
+      "type": "typography"
+    },
+    "md": {
+      "value": "$H6.500",
+      "type": "typography"
+    },
+    "lg": {
+      "value": "$H4.500",
+      "type": "typography"
+    }
+  },
+  "link": {
+    "sm": {
+      "value": {
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "itemSpacing": "6"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "itemSpacing": "8"
+      },
+      "type": "composition"
+    }
   }
 }
