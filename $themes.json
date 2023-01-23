@@ -283,5 +283,28 @@
       "themes / dark": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "50e64953fbcd825629bdfbdadbb00f6bd4abbd5f",
+    "name": "mola",
+    "selectedTokenSets": {
+      "01_mosudo / colors": "source",
+      "01_mosudo / radius": "source",
+      "01_mosudo / shadows": "source",
+      "01_mosudo / typography": "source",
+      "02_semantic / avatar": "enabled",
+      "02_semantic / buttons": "enabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / dialog": "enabled",
+      "02_semantic / flag": "enabled",
+      "02_semantic / inputs": "enabled",
+      "02_semantic / bottom-nav": "enabled",
+      "02_semantic / menus": "enabled",
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "enabled",
+      "02_semantic / table": "enabled",
+      "themes / mola": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
