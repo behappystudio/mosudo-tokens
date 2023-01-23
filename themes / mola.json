@@ -261,6 +261,28 @@
         "value": "{Teal.700}",
         "type": "color"
       }
+    },
+    "fontWeights": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "SemiBold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "800": {
+        "value": "ExtraBold",
+        "type": "fontWeights"
+      }
     }
   }
 }
