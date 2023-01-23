@@ -1,16 +1,5 @@
 [
   {
-    "id": "21ce001a6b28bfb2368278a3dd44121956c46db5",
-    "name": "dark",
-    "selectedTokenSets": {
-      "themes / dark": "enabled",
-      "01_mosudo / radius": "enabled",
-      "01_mosudo / shadows": "enabled",
-      "01_mosudo / typography": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "f0cb0bf56dd09c8f43cdcbb569691df5d0ad30f1",
     "name": "behappy",
     "selectedTokenSets": {
@@ -269,6 +258,29 @@
       "02_semantic / table": "enabled",
       "themes / dark": "enabled",
       "themes / akustik-more": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "01dfc9d50f99a9a39ae7e3bea8f196da81ee96d0",
+    "name": "dark",
+    "selectedTokenSets": {
+      "01_mosudo / colors": "source",
+      "01_mosudo / radius": "source",
+      "01_mosudo / shadows": "source",
+      "01_mosudo / typography": "source",
+      "02_semantic / avatar": "enabled",
+      "02_semantic / buttons": "enabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / dialog": "enabled",
+      "02_semantic / flag": "enabled",
+      "02_semantic / inputs": "enabled",
+      "02_semantic / bottom-nav": "enabled",
+      "02_semantic / menus": "enabled",
+      "02_semantic / pills-chip": "enabled",
+      "02_semantic / action-sheet": "enabled",
+      "02_semantic / table": "enabled",
+      "themes / dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
