@@ -20,53 +20,53 @@
     },
     "Primary": {
       "200": {
-        "value": "$Yellow.200",
+        "value": "$Red.200",
         "type": "color"
       },
       "300": {
-        "value": "$Yellow.300",
+        "value": "$Red.300",
         "type": "color"
       },
       "400": {
-        "value": "$Yellow.400",
+        "value": "$Red.400",
         "type": "color"
       },
       "500": {
-        "value": "$Yellow.500",
+        "value": "$Red.500",
         "type": "color"
       },
       "600": {
-        "value": "$Yellow.600",
+        "value": "$Red.600",
         "type": "color"
       },
       "700": {
-        "value": "$Yellow.700",
+        "value": "$Red.700",
         "type": "color"
       }
     },
     "Secondary": {
       "200": {
-        "value": "$Teal.200",
+        "value": "$Purple.200",
         "type": "color"
       },
       "300": {
-        "value": "$Teal.300",
+        "value": "$Purple.300",
         "type": "color"
       },
       "400": {
-        "value": "$Teal.400",
+        "value": "$Purple.400",
         "type": "color"
       },
       "500": {
-        "value": "$Teal.500",
+        "value": "$Purple.500",
         "type": "color"
       },
       "600": {
-        "value": "$Teal.600",
+        "value": "$Purple.600",
         "type": "color"
       },
       "700": {
-        "value": "$Teal.700",
+        "value": "$Purple.700",
         "type": "color"
       }
     },

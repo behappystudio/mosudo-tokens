@@ -51,11 +51,11 @@
           "type": "color"
         },
         "Text": {
-          "value": "{System.Primary.500}",
+          "value": "{System.Primary.700}",
           "type": "color"
         },
         "Icon": {
-          "value": "{System.Primary.500}",
+          "value": "{System.Primary.700}",
           "type": "color"
         }
       },
@@ -65,11 +65,11 @@
           "type": "color"
         },
         "Text": {
-          "value": "{System.Primary.500}",
+          "value": "{System.Primary.700}",
           "type": "color"
         },
         "Icon": {
-          "value": "{System.Primary.500}",
+          "value": "{System.Primary.700}",
           "type": "color"
         }
       },
