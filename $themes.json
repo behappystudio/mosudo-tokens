@@ -16,8 +16,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,8 +38,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -61,8 +59,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -84,8 +81,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -107,8 +103,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -130,8 +125,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -153,8 +147,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -175,8 +168,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -197,8 +189,7 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -220,8 +211,7 @@
       "01_mosudo / typography": "source",
       "02_semantic / bottom-nav": "enabled",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / action-sheet": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / action-sheet": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -245,8 +235,7 @@
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
       "themes / dark": "enabled",
-      "themes / akustik-more": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "themes / akustik-more": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -269,8 +258,7 @@
       "02_semantic / pills-chip": "enabled",
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
-      "themes / dark": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "themes / dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -293,8 +281,7 @@
       "02_semantic / pills-chip": "enabled",
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
-      "themes / mola": "enabled",
-      "02_semantic / top-nav": "disabled"
+      "themes / mola": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -316,8 +303,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "source",
-      "02_semantic / top-nav": "disabled"
+      "02_semantic / pills-chip": "source"
     },
     "$figmaStyleReferences": {}
   }
