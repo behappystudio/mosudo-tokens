@@ -113,11 +113,11 @@
       "type": "letterSpacing"
     },
     "5": {
-      "value": "0.2",
+      "value": "-0.2",
       "type": "letterSpacing"
     },
     "6": {
-      "value": "0.3",
+      "value": "-0.3",
       "type": "letterSpacing"
     }
   },
@@ -683,7 +683,7 @@
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "{lineHeights.3}",
           "fontSize": "{fontSize.small}",
-          "letterSpacing": "{letterSpacing.0}",
+          "letterSpacing": "{letterSpacing.5}",
           "paragraphSpacing": "{paragraphSpacing.0}",
           "textCase": "{textCase.none}",
           "textDecoration": "{textDecoration.none}"
