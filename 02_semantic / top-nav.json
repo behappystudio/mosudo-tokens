@@ -3,6 +3,14 @@
     "Background": {
       "value": "$Neutral.000",
       "type": "color"
+    },
+    "Icon": {
+      "value": "$Neutral.600",
+      "type": "color"
+    },
+    "Text": {
+      "value": "$Neutral.600",
+      "type": "color"
     }
   }
 }
