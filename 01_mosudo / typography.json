@@ -79,15 +79,15 @@
       "type": "fontSizes"
     },
     "h3": {
-      "value": "40",
+      "value": "34",
       "type": "fontSizes"
     },
     "h2": {
-      "value": "60",
+      "value": "44",
       "type": "fontSizes"
     },
     "h1": {
-      "value": "80",
+      "value": "54",
       "type": "fontSizes"
     }
   },
