@@ -305,7 +305,8 @@
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
       "02_semantic / pills-chip": "enabled",
-      "02_semantic / top-nav": "enabled"
+      "02_semantic / top-nav": "enabled",
+      "02_semantic / bottom-nav": "enabled"
     },
     "$figmaStyleReferences": {}
   }
