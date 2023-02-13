@@ -301,7 +301,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.500}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.h4}",
         "letterSpacing": "{letterSpacing.1}",
