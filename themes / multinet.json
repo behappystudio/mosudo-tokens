@@ -269,7 +269,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "20",
-          "borderRadius": "$none",
+          "borderRadius": "$lg",
           "boxShadow": "$Shadow.none",
           "height": "32",
           "itemSpacing": "4"
@@ -280,7 +280,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "24",
-          "borderRadius": "$none",
+          "borderRadius": "$lg",
           "boxShadow": "$none",
           "itemSpacing": "6",
           "height": "40"
@@ -291,7 +291,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "28",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "itemSpacing": "8",
           "height": "48"
@@ -302,7 +302,7 @@
         "value": {
           "verticalPadding": "16",
           "horizontalPadding": "48",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "height": "60",
           "itemSpacing": "10"
@@ -315,7 +315,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "8",
-          "borderRadius": "$none",
+          "borderRadius": "$lg",
           "boxShadow": "$Shadow.none",
           "height": "32"
         },
@@ -325,7 +325,7 @@
         "value": {
           "verticalPadding": "9",
           "horizontalPadding": "9",
-          "borderRadius": "$none",
+          "borderRadius": "$lg",
           "boxShadow": "$none",
           "height": "40"
         },
@@ -335,7 +335,7 @@
         "value": {
           "verticalPadding": "12",
           "horizontalPadding": "12",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "height": "48"
         },
@@ -345,7 +345,7 @@
         "value": {
           "verticalPadding": "16",
           "horizontalPadding": "16",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "height": "60"
         },
