@@ -355,7 +355,7 @@
   },
   "label": {
     "xs": {
-      "value": "{Text.XSmall.400}",
+      "value": "{Text.XSmall.500}",
       "type": "typography"
     },
     "sm": {
