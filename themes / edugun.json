@@ -359,27 +359,27 @@
   },
   "Red": {
     "200": {
-      "value": "#f0a8c5",
+      "value": "#F7E6EE",
       "type": "color"
     },
     "300": {
-      "value": "#e7709f",
+      "value": "#E8B6CB",
       "type": "color"
     },
     "400": {
-      "value": "#dd387a",
+      "value": "#DC85A8",
       "type": "color"
     },
     "500": {
-      "value": "#d40054",
+      "value": "#C22955",
       "type": "color"
     },
     "600": {
-      "value": "#a50042",
+      "value": "#87193C",
       "type": "color"
     },
     "700": {
-      "value": "#77002f",
+      "value": "#610F2A",
       "type": "color"
     }
   },
@@ -428,11 +428,11 @@
   "Menu": {
     "Default": {
       "Text": {
-        "value": "$System.Primary.200",
+        "value": "$System.Primary.300",
         "type": "color"
       },
       "Icon": {
-        "value": "$System.Primary.200",
+        "value": "$System.Primary.300",
         "type": "color"
       }
     },
