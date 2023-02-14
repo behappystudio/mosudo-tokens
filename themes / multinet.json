@@ -197,6 +197,32 @@
       "type": "color"
     }
   },
+  "Green": {
+    "200": {
+      "value": "#F0F7F3",
+      "type": "color"
+    },
+    "300": {
+      "value": "#D3E7DB",
+      "type": "color"
+    },
+    "400": {
+      "value": "#B6D7C3",
+      "type": "color"
+    },
+    "500": {
+      "value": "#72AF88",
+      "type": "color"
+    },
+    "600": {
+      "value": "#507B5F",
+      "type": "color"
+    },
+    "700": {
+      "value": "#395844",
+      "type": "color"
+    }
+  },
   "fontFamilies": {
     "primary": {
       "value": "Montserrat",
