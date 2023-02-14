@@ -456,5 +456,46 @@
         "type": "color"
       }
     }
+  },
+  "input": {
+    "line": {
+      "textbox": {
+        "value": {
+          "horizontalPadding": "14",
+          "verticalPadding": "12",
+          "borderRadiusTopLeft": "$lg",
+          "borderRadiusTopRight": "$lg",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      },
+      "numeric": {
+        "value": {
+          "verticalPadding": "8",
+          "borderRadius": "$lg",
+          "spacing": "0"
+        },
+        "type": "composition"
+      }
+    },
+    "contained": {
+      "textbox": {
+        "value": {
+          "horizontalPadding": "14",
+          "verticalPadding": "12",
+          "borderRadius": "$2xlg",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      },
+      "numeric": {
+        "value": {
+          "verticalPadding": "8",
+          "borderRadius": "$2xlg",
+          "spacing": "0"
+        },
+        "type": "composition"
+      }
+    }
   }
 }
