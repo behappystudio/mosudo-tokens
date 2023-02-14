@@ -264,28 +264,6 @@
     "$figmaStyleReferences": {}
   },
   {
-    "id": "1631f058b5972ea0f981f0f73d75ac336dd85179",
-    "name": "edugun",
-    "selectedTokenSets": {
-      "02_semantic / avatar": "source",
-      "02_semantic / buttons": "source",
-      "02_semantic / colors": "source",
-      "02_semantic / dialog": "source",
-      "02_semantic / flag": "source",
-      "02_semantic / inputs": "source",
-      "02_semantic / menus": "source",
-      "02_semantic / table": "source",
-      "themes / edugun": "enabled",
-      "01_mosudo / colors": "source",
-      "01_mosudo / radius": "source",
-      "01_mosudo / shadows": "source",
-      "01_mosudo / sizing": "source",
-      "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
     "name": "light",
     "selectedTokenSets": {
@@ -305,6 +283,31 @@
       "02_semantic / pills-chip": "enabled",
       "02_semantic / action-sheet": "enabled",
       "02_semantic / top-nav": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "1631f058b5972ea0f981f0f73d75ac336dd85179",
+    "name": "edugun",
+    "selectedTokenSets": {
+      "02_semantic / avatar": "source",
+      "02_semantic / buttons": "source",
+      "02_semantic / colors": "source",
+      "02_semantic / dialog": "source",
+      "02_semantic / flag": "source",
+      "02_semantic / inputs": "source",
+      "02_semantic / menus": "source",
+      "02_semantic / table": "source",
+      "themes / edugun": "enabled",
+      "01_mosudo / colors": "source",
+      "01_mosudo / radius": "source",
+      "01_mosudo / shadows": "source",
+      "01_mosudo / sizing": "source",
+      "01_mosudo / typography": "source",
+      "02_semantic / pills-chip": "source",
+      "02_semantic / bottom-nav": "source",
+      "02_semantic / action-sheet": "source",
+      "02_semantic / top-nav": "source"
     },
     "$figmaStyleReferences": {}
   }

@@ -235,7 +235,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "20",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "boxShadow": "$Shadow.none",
           "height": "32",
           "itemSpacing": "4"
@@ -246,7 +246,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "24",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "boxShadow": "$none",
           "itemSpacing": "6",
           "height": "40"
@@ -257,7 +257,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "28",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "itemSpacing": "8",
           "height": "48"
@@ -268,7 +268,7 @@
         "value": {
           "verticalPadding": "16",
           "horizontalPadding": "48",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "height": "60",
           "itemSpacing": "10"
@@ -281,7 +281,7 @@
         "value": {
           "verticalPadding": "8",
           "horizontalPadding": "8",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "boxShadow": "$Shadow.none",
           "height": "32"
         },
@@ -291,7 +291,7 @@
         "value": {
           "verticalPadding": "9",
           "horizontalPadding": "9",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "boxShadow": "$none",
           "height": "40"
         },
@@ -301,7 +301,7 @@
         "value": {
           "verticalPadding": "12",
           "horizontalPadding": "12",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "height": "48"
         },
@@ -311,7 +311,7 @@
         "value": {
           "verticalPadding": "16",
           "horizontalPadding": "16",
-          "borderRadius": "$none",
+          "borderRadius": "$2xlg",
           "typography": "$H4.500",
           "height": "60"
         },
@@ -407,6 +407,54 @@
     "700": {
       "value": "#2b004e",
       "type": "color"
+    }
+  },
+  "H4": {
+    "500": {
+      "value": {
+        "fontFamily": "$fontFamilies.secondary"
+      },
+      "type": "typography"
+    }
+  },
+  "H6": {
+    "500": {
+      "value": {
+        "fontFamily": "$fontFamilies.secondary"
+      },
+      "type": "typography"
+    }
+  },
+  "Menu": {
+    "Default": {
+      "Text": {
+        "value": "$System.Primary.200",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Primary.200",
+        "type": "color"
+      }
+    },
+    "Active": {
+      "Text": {
+        "value": "$System.Default.White",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Default.White",
+        "type": "color"
+      }
+    },
+    "Hero": {
+      "Background": {
+        "value": "$System.Primary.500",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Default.White",
+        "type": "color"
+      }
     }
   }
 }
