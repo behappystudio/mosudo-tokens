@@ -72,7 +72,7 @@
     },
     "Error": {
       "200": {
-        "value": "{Red.500}",
+        "value": "{Red.200}",
         "type": "color"
       },
       "300": {
@@ -173,27 +173,27 @@
   },
   "Green": {
     "200": {
-      "value": "#c8e4d6",
+      "value": "#F0F7F3",
       "type": "color"
     },
     "300": {
-      "value": "#a4d3bb",
+      "value": "#D3E7DB",
       "type": "color"
     },
     "400": {
-      "value": "#81c2a0",
+      "value": "#B6D7C3",
       "type": "color"
     },
     "500": {
-      "value": "#5db185",
+      "value": "#72AF88",
       "type": "color"
     },
     "600": {
-      "value": "#498a68",
+      "value": "#507B5F",
       "type": "color"
     },
     "700": {
-      "value": "#34634a",
+      "value": "#395844",
       "type": "color"
     }
   },
@@ -354,22 +354,8 @@
     }
   },
   "label": {
-    "xs": {
-      "value": "{Text.XSmall.500}",
-      "type": "typography"
-    },
-    "sm": {
-      "value": "$Text.Medium.500",
-      "type": "typography"
-    },
-    "md": {
-      "value": "$H6.500",
-      "type": "typography"
-    },
-    "lg": {
-      "value": "$H4.500",
-      "type": "typography"
-    }
+    "value": "$Text.XSmall.500",
+    "type": "typography"
   },
   "link": {
     "sm": {
@@ -410,6 +396,197 @@
       "Blue": {
         "value": "linear-gradient(0deg, rgba($Neutral.000, 1) 0%, rgba($Blue.200, 1) 50%, rgba($Neutral.000, 1) 100%)",
         "type": "color"
+      }
+    }
+  },
+  "Red": {
+    "200": {
+      "value": "#FBEEF1",
+      "type": "color"
+    },
+    "300": {
+      "value": "#F5CBD5",
+      "type": "color"
+    },
+    "400": {
+      "value": "#F0A9B9",
+      "type": "color"
+    },
+    "500": {
+      "value": "#E55A74",
+      "type": "color"
+    },
+    "600": {
+      "value": "#A03E51",
+      "type": "color"
+    },
+    "700": {
+      "value": "#722C3A",
+      "type": "color"
+    }
+  },
+  "Yellow": {
+    "200": {
+      "value": "#FDF7EB",
+      "type": "color"
+    },
+    "300": {
+      "value": "#F9E8C3",
+      "type": "color"
+    },
+    "400": {
+      "value": "#F6D79D",
+      "type": "color"
+    },
+    "500": {
+      "value": "#EDB149",
+      "type": "color"
+    },
+    "600": {
+      "value": "#A67C32",
+      "type": "color"
+    },
+    "700": {
+      "value": "#765923",
+      "type": "color"
+    }
+  },
+  "input": {
+    "line": {
+      "textbox": {
+        "value": {
+          "horizontalPadding": "14",
+          "verticalPadding": "12",
+          "borderRadiusTopLeft": "$sm",
+          "borderRadiusTopRight": "$sm",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      },
+      "numeric": {
+        "value": {
+          "verticalPadding": "8",
+          "borderRadius": "$sm",
+          "spacing": "0"
+        },
+        "type": "composition"
+      }
+    },
+    "contained": {
+      "textbox": {
+        "value": {
+          "horizontalPadding": "14",
+          "verticalPadding": "12",
+          "borderRadius": "$sm",
+          "itemSpacing": "10"
+        },
+        "type": "composition"
+      },
+      "numeric": {
+        "value": {
+          "verticalPadding": "8",
+          "borderRadius": "$sm",
+          "spacing": "0"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "placeholder": {
+    "value": "$Text.Medium.400",
+    "type": "typography"
+  },
+  "Input": {
+    "Line": {
+      "Default": {
+        "Background": {
+          "value": "$Neutral.100",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$Neutral.200",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.500",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Focused": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.600",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Success.500",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.600",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Error.500",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.600",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "$System.Default.Transparent",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$Neutral.100",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.400",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.200",
+          "type": "color"
+        }
       }
     }
   }
