@@ -390,5 +390,27 @@
       },
       "type": "composition"
     }
+  },
+  "Container": {
+    "Base": {
+      "Default": {
+        "value": "$Neutral.100",
+        "type": "color"
+      }
+    },
+    "Gradient": {
+      "Yellow": {
+        "value": "linear-gradient(0deg, rgba($Neutral.000, 1) 0%, rgba($Yellow.200, 1) 50%, rgba($Neutral.000, 1) 100%)",
+        "type": "color"
+      },
+      "Green": {
+        "value": "linear-gradient(0deg, rgba($Neutral.000, 1) 0%, rgba($Green.200, 1) 50%, rgba($Neutral.000, 1) 100%)",
+        "type": "color"
+      },
+      "Blue": {
+        "value": "linear-gradient(0deg, rgba($Neutral.000, 1) 0%, rgba($Blue.200, 1) 50%, rgba($Neutral.000, 1) 100%)",
+        "type": "color"
+      }
+    }
   }
 }
