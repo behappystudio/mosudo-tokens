@@ -255,6 +255,20 @@
       }
     }
   },
+  "Top Nav": {
+    "Background": {
+      "value": "$System.Primary.200",
+      "type": "color"
+    },
+    "Icon": {
+      "value": "$Neutral.600",
+      "type": "color"
+    },
+    "Text": {
+      "value": "$Neutral.600",
+      "type": "color"
+    }
+  },
   "fontFamilies": {
     "primary": {
       "value": "Montserrat",
