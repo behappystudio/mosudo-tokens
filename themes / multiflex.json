@@ -223,6 +223,38 @@
       "type": "color"
     }
   },
+  "Menu": {
+    "Default": {
+      "Text": {
+        "value": "$System.Primary.300",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Primary.300",
+        "type": "color"
+      }
+    },
+    "Active": {
+      "Text": {
+        "value": "$System.Default.White",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Default.White",
+        "type": "color"
+      }
+    },
+    "Hero": {
+      "Background": {
+        "value": "$System.Primary.500",
+        "type": "color"
+      },
+      "Icon": {
+        "value": "$System.Default.White",
+        "type": "color"
+      }
+    }
+  },
   "fontFamilies": {
     "primary": {
       "value": "Montserrat",
@@ -411,15 +443,15 @@
   },
   "Purple": {
     "200": {
-      "value": "#ECE5F3",
+      "value": "#EBF0FA",
       "type": "color"
     },
     "300": {
-      "value": "#C6B4DA",
+      "value": "#C5D1F0",
       "type": "color"
     },
     "400": {
-      "value": "#A081C0",
+      "value": "#9EB3E6",
       "type": "color"
     },
     "500": {
@@ -427,11 +459,11 @@
       "type": "color"
     },
     "600": {
-      "value": "#31045E",
+      "value": "#2A4790",
       "type": "color"
     },
     "700": {
-      "value": "#230243",
+      "value": "#1E3367",
       "type": "color"
     }
   },
@@ -533,5 +565,12 @@
         "type": "color"
       }
     }
+  },
+  "Bottom-Nav": {
+    "value": {
+      "boxShadow": "$Top.sm",
+      "fill": "$System.Primary.500"
+    },
+    "type": "composition"
   }
 }

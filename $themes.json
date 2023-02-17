@@ -16,8 +16,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -39,8 +38,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -61,8 +59,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -84,8 +81,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -107,8 +103,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -130,8 +125,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -153,8 +147,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -175,8 +168,7 @@
       "01_mosudo / shadows": "source",
       "01_mosudo / sizing": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -197,8 +189,7 @@
       "01_mosudo / radius": "source",
       "01_mosudo / shadows": "source",
       "01_mosudo / typography": "source",
-      "02_semantic / pills-chip": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / pills-chip": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -222,8 +213,7 @@
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
       "themes / dark": "enabled",
-      "themes / akustik-more": "enabled",
-      "themes / multiflex": "disabled"
+      "themes / akustik-more": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -246,8 +236,7 @@
       "02_semantic / pills-chip": "enabled",
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
-      "themes / dark": "enabled",
-      "themes / multiflex": "disabled"
+      "themes / dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -270,8 +259,7 @@
       "02_semantic / pills-chip": "enabled",
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
-      "themes / mola": "enabled",
-      "themes / multiflex": "disabled"
+      "themes / mola": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -294,8 +282,7 @@
       "02_semantic / bottom-nav": "enabled",
       "02_semantic / pills-chip": "enabled",
       "02_semantic / action-sheet": "enabled",
-      "02_semantic / top-nav": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / top-nav": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -320,8 +307,7 @@
       "02_semantic / pills-chip": "source",
       "02_semantic / bottom-nav": "source",
       "02_semantic / action-sheet": "source",
-      "02_semantic / top-nav": "source",
-      "themes / multiflex": "disabled"
+      "02_semantic / top-nav": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -346,8 +332,7 @@
       "02_semantic / action-sheet": "enabled",
       "02_semantic / table": "enabled",
       "themes / multinet": "enabled",
-      "02_semantic / top-nav": "enabled",
-      "themes / multiflex": "disabled"
+      "02_semantic / top-nav": "enabled"
     },
     "$figmaStyleReferences": {}
   },
