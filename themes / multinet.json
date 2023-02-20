@@ -223,38 +223,6 @@
       "type": "color"
     }
   },
-  "fontFamilies": {
-    "primary": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    },
-    "secondary": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    }
-  },
-  "fontWeights": {
-    "300": {
-      "value": "Light",
-      "type": "fontWeights"
-    },
-    "400": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "500": {
-      "value": "SemiBold",
-      "type": "fontWeights"
-    },
-    "700": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "800": {
-      "value": "ExtraBold",
-      "type": "fontWeights"
-    }
-  },
   "Button": {
     "Default": {
       "xs": {
@@ -343,6 +311,76 @@
         },
         "type": "composition"
       }
+    },
+    "Ghost": {
+      "Default": {
+        "Background": {
+          "value": "$Neutral.000",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$Neutral.200",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.700",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.700",
+          "type": "color"
+        }
+      },
+      "Clicked": {
+        "Background": {
+          "value": "$Neutral.100",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$Neutral.200",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.700",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.700",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "fontFamilies": {
+    "primary": {
+      "value": "Montserrat",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Montserrat",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "300": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "800": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
     }
   },
   "label": {
