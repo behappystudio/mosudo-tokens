@@ -139,6 +139,24 @@
           "value": "$Neutral.200",
           "type": "color"
         }
+      },
+      "Filled": {
+        "Background": {
+          "value": "$Neutral.000",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$Neutral.700",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.500",
+          "type": "color"
+        }
       }
     }
   }

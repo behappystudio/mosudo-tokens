@@ -571,5 +571,15 @@
         "type": "color"
       }
     }
+  },
+  "Input": {
+    "Line": {
+      "Default": {
+        "Background": {
+          "value": "$Neutral.200",
+          "type": "color"
+        }
+      }
+    }
   }
 }
