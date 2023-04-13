@@ -41,15 +41,15 @@
   },
   "fontWeights": {
     "300": {
-      "value": "Light",
-      "type": "fontWeights"
-    },
-    "400": {
       "value": "Regular",
       "type": "fontWeights"
     },
+    "400": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
     "500": {
-      "value": "Semi Bold",
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "700": {
@@ -57,7 +57,7 @@
       "type": "fontWeights"
     },
     "800": {
-      "value": "Extra Bold",
+      "value": "ExtraBold",
       "type": "fontWeights"
     }
   }
