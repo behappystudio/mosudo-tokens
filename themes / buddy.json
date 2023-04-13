@@ -38,5 +38,27 @@
       "value": "#061938",
       "type": "color"
     }
+  },
+  "fontWeights": {
+    "300": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "Semi Bold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "800": {
+      "value": "Extra Bold",
+      "type": "fontWeights"
+    }
   }
 }
