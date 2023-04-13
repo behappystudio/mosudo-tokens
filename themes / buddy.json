@@ -60,5 +60,13 @@
       "value": "ExtraBold",
       "type": "fontWeights"
     }
+  },
+  "System": {
+    "Primary": {
+      "500": {
+        "value": "$Blue.500",
+        "type": "color"
+      }
+    }
   }
 }
