@@ -148,7 +148,7 @@
       "xs": {
         "value": {
           "verticalPadding": "8",
-          "horizontalPadding": "20",
+          "horizontalPadding": "16",
           "borderRadius": "$xlg",
           "boxShadow": "$Shadow.none",
           "height": "32",
